@@ -12,7 +12,7 @@ def maximum(value1,value2, value3):
 maximum(12, 27, 36)
 
 """Return the minimum of four values."""
-def minimum(value1,value2, value3,value4):
+def minimum(value1,value2, value3, value4):
 
     min_value = value1
     if value2 < min_value:
